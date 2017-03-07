@@ -2,14 +2,14 @@
 Facing the setup of a new machine (or the need to reinstall after a fresh OS install or the like), here's a very brief and basic list of the usual suspects, related to the setup of a mac computer to work with (in a scripting languages context).
 
 ## Homebrew & cask
-The package manager is the default first thing I always install. Simply following the default steps. Homebrew downloads and installs the Command Line Tools for Xcode, so we're all good. `brew cask` handles the tapping, so we are cask-enabled too.
-
+The package manager is the default first thing I always install. Simply following the default steps. Homebrew downloads and installs the Command Line Tools for Xcode, so we're all good. `brew cask` handles the tapping, so we are cask-enabled too. Finally, `brew-cask-upgrade` provides upgrade-like capabilities to cask, and we're all set.
 ```bash
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 brew cask
+brew tap buo/cask-upgrade
 ```
 ## Mac App Store
-If some software from the Mac App Store needs to be included, we need `mas` installed before some of the next installs.
+If some previously purchased software from the Mac App Store needs to be included, we can use `mas` to ease the installs.
 
 ```bash
 brew install mas

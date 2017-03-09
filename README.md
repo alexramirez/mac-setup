@@ -98,6 +98,9 @@ brew install zsh zsh-completions
 # And definitely check plugins, templates, themes, etc. at:
 # https://github.com/robbyrussell/oh-my-zsh
 
+# AWS CLI
+brew install awscli
+
 # A good text editor / text IDE
 brew cask install textmate
 brew cask install sublime-text

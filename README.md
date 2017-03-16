@@ -1,5 +1,5 @@
 # Mac OS X setup
-Facing the setup of a new machine (or the need to reinstall after a fresh OS install or the like), here's a very brief and basic list of the usual suspects, related to the setup of a mac computer to work with (in a scripting languages context).
+Facing the setup of a new machine (or the need to reinstall after a fresh OS install or the like), here's a very brief and basic list of the usual suspects, related to the setup of a mac computer to work with (mostly related to a scripting languages context).
 
 ## Homebrew & cask
 The package manager is the default first thing I always install. Simply following the default steps. Homebrew downloads and installs the Command Line Tools for Xcode, so we're all good. `brew cask` handles the tapping, so we are cask-enabled too. Finally, `brew-cask-upgrade` provides upgrade-like capabilities to cask, and we're all set.
@@ -21,7 +21,7 @@ Once we have `homebrew`, `cask` (and `mas` if needed) we're ready to go (yes, th
 ### Productivity
 
 ```bash
-# Package management
+# Efficiency booster
 brew cask install alfred
 
 # CloudApp
@@ -72,6 +72,9 @@ brew cask install kindle
 # Spotify
 brew cask install spotify
 
+# Shazam
+mas install 897118787
+
 # Skype
 brew cask install skype
 
@@ -83,6 +86,9 @@ brew cask install the-unarchiver
 
 # Whatsapp
 brew cask install whatsapp
+
+# Wunderlist
+mas install 410628904
 
 # VLC
 brew cask install vlc

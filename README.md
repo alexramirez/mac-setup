@@ -87,9 +87,6 @@ brew cask install the-unarchiver
 # Whatsapp
 brew cask install whatsapp
 
-# Wunderlist
-mas install 410628904
-
 # VLC
 brew cask install vlc
 ```
@@ -119,6 +116,9 @@ brew cask install charles
 # Docker
 brew cask install docker
 brew cask install kitematic
+
+# GoLang
+brew install go
 
 # Vagrant
 brew cask install vagrant

@@ -117,8 +117,15 @@ brew cask install charles
 brew cask install docker
 brew cask install kitematic
 
+# Git-related
+brew cask install rowanj-gitx
+
 # GoLang
 brew install go
+
+# Python
+brew install python
+brew install python3
 
 # Vagrant
 brew cask install vagrant

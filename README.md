@@ -117,6 +117,9 @@ brew cask install charles
 brew cask install docker
 brew cask install kitematic
 
+# Gas Mask
+brew cask install gas-mask
+
 # Git-related
 brew cask install rowanj-gitx
 

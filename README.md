@@ -128,6 +128,9 @@ brew cask instal kdiff3
 # GoLang
 brew install go
 
+# Ngrok
+brew cask install ngrok
+
 # Python
 brew install python
 brew install python3
@@ -153,6 +156,9 @@ brew install homebrew/php/composer
 
 # Sequel Pro
 brew cask install sequel-pro
+
+# Terrafom
+brew install terraform
 
 # Xcode. Will take forever to download, yes. Not needed by everyone.
 mas install 497799835

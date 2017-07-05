@@ -160,6 +160,9 @@ brew cask install sequel-pro
 # Terrafom
 brew install terraform
 
+# Tunnelblick
+brew cask install tunnelblick
+
 # Xcode. Will take forever to download, yes. Not needed by everyone.
 mas install 497799835
 ```

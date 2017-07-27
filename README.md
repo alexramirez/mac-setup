@@ -33,9 +33,10 @@ brew cask install slack
 # Wunderlist
 mas install 410628904
 
-# Notes & skitch
+# Notes & related
 brew cask install evernote
 brew cask install skitch
+mas install 1091189122 #Bear
 
 # Amphetamine
 mas install 937984704

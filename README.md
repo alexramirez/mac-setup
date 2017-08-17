@@ -155,6 +155,9 @@ brew cask install intellij-idea
 # PHP & related
 brew install homebrew/php/composer
 
+# Postman
+brew cask install postman
+
 # Sequel Pro
 brew cask install sequel-pro
 
@@ -173,7 +176,6 @@ mas install 497799835
 Some useful pointers if we have not added those to the Google account yet
 
 - https://chrome.google.com/webstore/detail/authy/gaedmjdfmmahhbjefcbgaolhhanlaolb
-- https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop
 - https://chrome.google.com/webstore/detail/browserstack-local/mfiddfehmfdojjfdpfngagldgaaafcfo
 - https://chrome.google.com/webstore/detail/json-editor/lhkmoheomjbkfloacpgllgjcamhihfaj
 - https://chrome.google.com/webstore/detail/google-keep-notes-and-lis/hmjkmjkepdijhoojdojkdfohbdgmmhki

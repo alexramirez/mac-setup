@@ -64,7 +64,7 @@ brew cask install firefox
 brew cask install gimp
 
 # Some of the Google stuff
-brew cask install google-photos-backup
+brew cask install google-photos-backup-and-sync
 brew cask install google-earth
 
 # Kindle

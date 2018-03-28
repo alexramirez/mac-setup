@@ -70,6 +70,9 @@ brew cask install google-earth
 # Kindle
 brew cask install kindle
 
+# MS
+brew cask install microsoft-office
+
 # Spotify
 brew cask install spotify
 
@@ -105,6 +108,10 @@ brew install zsh zsh-completions
 # AWS CLI
 brew install awscli
 
+# API development
+brew cask install postman
+brew cask install paw
+
 # A good text editor / text IDE
 brew cask install textmate
 brew cask install sublime-text
@@ -117,6 +124,9 @@ brew cask install charles
 # Docker
 brew cask install docker
 brew cask install kitematic
+
+# ES
+brew install elasticsearch
 
 # Gas Mask
 brew cask install gas-mask
@@ -154,9 +164,6 @@ brew cask install intellij-idea
 
 # PHP & related
 brew install homebrew/php/composer
-
-# Postman
-brew cask install postman
 
 # Sequel Pro
 brew cask install sequel-pro

@@ -51,6 +51,9 @@ mas install 441258766
 # Default browser. I like Chrome.
 brew cask install google-chrome
 
+# Authy
+brew cask install authy
+
 # Calibre
 brew cask install calibre
 

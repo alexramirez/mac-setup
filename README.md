@@ -84,7 +84,7 @@ mas install 897118787
 
 # Skype
 brew cask install skype
-
+brew cask install skype-for-business
 # Twitter
 mas install 409789998
 
@@ -149,11 +149,11 @@ brew cask install ngrok
 brew install python
 brew install python3
 
-# Vagrant
+# DevOps
 brew cask install vagrant
-
-# Packer
+brew cask install virtualbox
 brew install packer
+brew install terraform
 
 # FTP & related
 brew cask install cyberduck
@@ -168,13 +168,10 @@ brew cask install intellij-idea
 # PHP & related
 brew install homebrew/php/composer
 
-# Sequel Pro
+# Databases
 brew cask install sequel-pro
 
-# Terrafom
-brew install terraform
-
-# Tunnelblick
+# VPS
 brew cask install tunnelblick
 
 # Xcode. Will take forever to download, yes. Not needed by everyone.

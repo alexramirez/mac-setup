@@ -85,6 +85,7 @@ mas install 897118787
 # Skype
 brew cask install skype
 brew cask install skype-for-business
+
 # Twitter
 mas install 409789998
 
@@ -155,9 +156,9 @@ brew cask install virtualbox
 brew install packer
 brew install terraform
 
-# FTP & related
+# Cloud storage and related
 brew cask install cyberduck
-brew cask install filezilla
+#brew cask install filezilla # Seems they're evil lately, do NOT install anymore.
 
 # JetBrains
 brew cask install phpstorm

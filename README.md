@@ -167,7 +167,7 @@ brew cask install rubymine
 brew cask install intellij-idea
 
 # PHP & related
-brew install homebrew/php/composer
+brew install composer
 
 # Databases
 brew cask install sequel-pro

@@ -116,11 +116,12 @@ brew install awscli
 brew cask install postman
 brew cask install paw
 
-# A good text editor / text IDE
+# Text editors/IDEs
 brew cask install textmate
 brew cask install sublime-text
 brew cask install brackets
 brew cask install atom
+brew cask install visual-studio-code
 
 # Charles
 brew cask install charles

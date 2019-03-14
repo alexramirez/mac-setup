@@ -103,6 +103,8 @@ brew cask install vlc
 
 ```bash
 # A good terminal
+brew install tree
+brew install wget
 brew cask install iterm2
 brew install jq
 brew install zsh zsh-completions 

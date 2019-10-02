@@ -54,6 +54,9 @@ brew cask install google-chrome
 # Authy
 brew cask install authy
 
+# Bartender
+brew cask install bartender
+
 # Calibre
 brew cask install calibre
 
@@ -111,6 +114,8 @@ brew install zsh zsh-completions zsh-syntax-highlighting zsh-autosuggestions
 # And definitely check plugins, templates, themes, etc. at:
 # https://github.com/robbyrussell/oh-my-zsh
 brew install thefuck
+
+brew cask install shuttle
 
 # AWS CLI
 brew install awscli

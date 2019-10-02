@@ -107,9 +107,10 @@ brew install tree
 brew install wget
 brew cask install iterm2
 brew install jq
-brew install zsh zsh-completions 
+brew install zsh zsh-completions zsh-syntax-highlighting zsh-autosuggestions
 # And definitely check plugins, templates, themes, etc. at:
 # https://github.com/robbyrussell/oh-my-zsh
+brew install thefuck
 
 # AWS CLI
 brew install awscli

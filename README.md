@@ -44,12 +44,18 @@ mas install 937984704
 # Magnet
 mas install 441258766
 ```
+### Browsers
+
+```bash
+# Browsers
+brew cask install google-chrome
+brew cask install brave-browser
+brew cask install firefox
+```
 
 ### Common apps
 
 ```bash
-# Default browser. I like Chrome.
-brew cask install google-chrome
 
 # Authy
 brew cask install authy
@@ -62,9 +68,6 @@ brew cask install calibre
 
 # Dropbox
 brew cask install dropbox
-
-# Firefox
-brew cask install firefox
 
 # Gimp
 brew cask install gimp
@@ -85,21 +88,22 @@ brew cask install spotify
 # Shazam
 mas install 897118787
 
-# Skype
-brew cask install skype
-brew cask install skype-for-business
-
 # Twitter
 mas install 409789998
 
 # The Unarchiver
 brew cask install the-unarchiver
 
-# Whatsapp
-brew cask install whatsapp
-
 # VLC
 brew cask install vlc
+
+# Videoconference
+brew cask install skype
+brew cask install skype-for-business
+brew cask install zoomus
+
+# Whatsapp
+brew cask install whatsapp
 ```
 
 ### Development
@@ -115,6 +119,7 @@ brew install zsh zsh-completions zsh-syntax-highlighting zsh-autosuggestions
 # https://github.com/robbyrussell/oh-my-zsh
 brew install thefuck
 
+# Shuttle
 brew cask install shuttle
 
 # AWS CLI

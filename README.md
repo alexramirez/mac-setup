@@ -110,6 +110,7 @@ brew cask install whatsapp
 
 ```bash
 # A good terminal
+brew install tldr
 brew install tree
 brew install wget
 brew cask install iterm2

@@ -164,6 +164,7 @@ brew cask install ngrok
 # Python
 brew install python
 brew install python3
+brew cask install anaconda
 
 # DevOps
 brew cask install vagrant

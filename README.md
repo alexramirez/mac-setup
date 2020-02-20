@@ -30,8 +30,6 @@ mas install 417602904
 # Slack
 brew cask install slack
 
-# Wunderlist
-mas install 410628904
 
 # Notes & related
 brew cask install evernote
@@ -40,6 +38,9 @@ mas install 1091189122 #Bear
 
 # Amphetamine
 mas install 937984704
+
+# Bartender
+brew cask install bartender
 
 # Magnet
 mas install 441258766
@@ -59,9 +60,6 @@ brew cask install firefox
 
 # Authy
 brew cask install authy
-
-# Bartender
-brew cask install bartender
 
 # Calibre
 brew cask install calibre

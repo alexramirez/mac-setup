@@ -151,7 +151,7 @@ brew cask install gas-mask
 # Git-related
 brew cask install rowanj-gitx
 brew cask install sourcetree
-brew cask instal kdiff3
+brew cask install tower
 
 # GoLang
 brew install go

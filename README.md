@@ -30,7 +30,6 @@ mas install 417602904
 # Slack
 brew cask install slack
 
-
 # Notes & related
 brew cask install evernote
 brew cask install skitch
@@ -118,6 +117,9 @@ brew install wget
 brew install tldr
 brew install thefuck
 
+# Go2Shell
+brew cask install go2shell
+
 # Shuttle
 brew cask install shuttle 
 
@@ -137,6 +139,9 @@ brew cask install visual-studio-code
 
 # Charles proxy
 brew cask install charles
+
+# Dash
+brew cask install dash
 
 # Docker
 brew cask install docker

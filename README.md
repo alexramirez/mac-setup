@@ -108,25 +108,25 @@ brew cask install whatsapp
 
 ```bash
 # A good terminal
-brew install tldr
-brew install tree
-brew install wget
 brew cask install iterm2
 brew install jq
 brew install zsh zsh-completions zsh-syntax-highlighting zsh-autosuggestions
 # And definitely check plugins, templates, themes, etc. at:
 # https://github.com/robbyrussell/oh-my-zsh
+brew install tree
+brew install wget
+brew install tldr
 brew install thefuck
 
 # Shuttle
-brew cask install shuttle
+brew cask install shuttle 
 
 # AWS CLI
 brew install awscli
 
 # API development
-brew cask install postman
 brew cask install paw
+brew cask install postman
 
 # Text editors/IDEs
 brew cask install textmate
@@ -135,7 +135,7 @@ brew cask install brackets
 brew cask install atom
 brew cask install visual-studio-code
 
-# Charles
+# Charles proxy
 brew cask install charles
 
 # Docker
@@ -186,7 +186,7 @@ brew install composer
 # Databases
 brew cask install sequel-pro
 
-# VPS
+# VPN
 brew cask install tunnelblick
 
 # Xcode. Will take forever to download, yes. Not needed by everyone.

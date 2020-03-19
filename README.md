@@ -99,7 +99,8 @@ brew cask install skype
 brew cask install skype-for-business
 brew cask install zoomus
 
-# Whatsapp
+# Messaging
+brew cask install telegram
 brew cask install whatsapp
 ```
 

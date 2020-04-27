@@ -159,6 +159,9 @@ brew cask install rowanj-gitx
 brew cask install sourcetree
 brew cask install tower
 
+# Gradle
+brew install gradle
+
 # GoLang
 brew install go
 
@@ -178,7 +181,6 @@ brew install terraform
 
 # Cloud storage and related
 brew cask install cyberduck
-#brew cask install filezilla # Seems they're evil lately, do NOT install anymore.
 
 # JetBrains
 brew cask install phpstorm

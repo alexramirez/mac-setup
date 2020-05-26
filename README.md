@@ -178,6 +178,7 @@ brew cask install vagrant
 brew cask install virtualbox
 brew install packer
 brew install terraform
+brew install vault
 
 # Cloud storage and related
 brew cask install cyberduck

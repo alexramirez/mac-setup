@@ -63,7 +63,8 @@ brew cask install authy
 # Calibre
 brew cask install calibre
 
-# Dropbox
+# Personal cloud storage
+brew cask install amazon-photos
 brew cask install dropbox
 
 # Gimp

@@ -16,7 +16,7 @@ brew install mas
 ```
 
 ## My curated list of apps (and all that jazz)
-Once we have `homebrew`, `cask` (and `mas` if needed) we're ready to go (yes, these lists might be scripted, this is just a curated set):
+Once we have `homebrew`, `cask` (and `mas` if needed) we're ready to go (yes, these lists might be scripted for some automation to install all, this is just a curated set):
 
 ### Productivity
 
@@ -31,6 +31,8 @@ mas install 417602904
 brew cask install slack
 
 # Notes & related
+brew cask install typora
+brew cask install obsidian
 brew cask install evernote
 brew cask install skitch
 mas install 1091189122 #Bear
@@ -212,7 +214,7 @@ Some useful pointers if we have not added those to the Google account yet
 - https://chrome.google.com/webstore/detail/json-editor/lhkmoheomjbkfloacpgllgjcamhihfaj
 - https://chrome.google.com/webstore/detail/google-keep-notes-and-lis/hmjkmjkepdijhoojdojkdfohbdgmmhki
 - https://chrome.google.com/webstore/detail/google-hangouts/knipolnnllmklapflnccelgolnpehhpl
-
+- https://chrome.google.com/webstore/detail/google-meet-grid-view/kklailfgofogmmdlhgmjgenehkjoioip
 
 ## Others/ToDo
 

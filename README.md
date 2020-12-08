@@ -5,6 +5,7 @@ Facing the setup of a new machine (or the need to reinstall after a fresh OS ins
 The package manager is the default first thing I always install. Simply following the default steps. Homebrew downloads and installs the Command Line Tools for Xcode, so we're all good. `brew cask` handles the tapping, so we are cask-enabled too. Finally, `brew-cask-upgrade` provides upgrade-like capabilities to cask, and we're all set.
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+brew cask
 brew tap buo/cask-upgrade
 ```
 ## Mac App Store
@@ -15,7 +16,7 @@ brew install mas
 ```
 
 ## My curated list of apps (and all that jazz)
-Once we have `homebrew`, `cask` (and `mas` if needed) we're ready to go (yes, these lists might be scripted for some automation to install all, this is just a curated set):
+Once we have `homebrew`, `cask` (and `mas` if needed) we're ready to go (and yes, these lists might be scripted for some automation to install all, take this as just a curated set):
 
 ### Productivity
 
@@ -215,9 +216,3 @@ Some useful pointers if we have not added those to the Google account yet
 - https://chrome.google.com/webstore/detail/google-keep-notes-and-lis/hmjkmjkepdijhoojdojkdfohbdgmmhki
 - https://chrome.google.com/webstore/detail/google-hangouts/knipolnnllmklapflnccelgolnpehhpl
 - https://chrome.google.com/webstore/detail/google-meet-grid-view/kklailfgofogmmdlhgmjgenehkjoioip
-
-## Others/ToDo
-
-```
-# Wine, winebottler
-```

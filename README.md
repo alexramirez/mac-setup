@@ -4,8 +4,7 @@ Facing the setup of a new machine (or the need to reinstall after a fresh OS ins
 ## Homebrew & cask
 The package manager is the default first thing I always install. Simply following the default steps. Homebrew downloads and installs the Command Line Tools for Xcode, so we're all good. `brew cask` handles the tapping, so we are cask-enabled too. Finally, `brew-cask-upgrade` provides upgrade-like capabilities to cask, and we're all set.
 ```bash
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-brew cask
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 brew tap buo/cask-upgrade
 ```
 ## Mac App Store
@@ -100,6 +99,7 @@ brew cask install vlc
 # Videoconference
 brew cask install skype
 brew cask install skype-for-business
+brew cask install microsoft-teams
 brew cask install zoomus
 
 # Messaging

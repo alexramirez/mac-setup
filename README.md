@@ -100,7 +100,7 @@ brew install vlc
 brew install skype
 brew install skype-for-business
 brew install microsoft-teams
-brew install zoomus
+brew install zoom
 
 # Messaging
 brew install telegram

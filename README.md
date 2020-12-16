@@ -1,11 +1,10 @@
 # Mac OS X setup
 Facing the setup of a new machine (or the need to reinstall after a fresh OS install or the like), here's a very brief and basic list of the usual suspects, related to the setup of a mac computer to work with (mostly related to a scripting languages context).
 
-## Homebrew & cask
-The package manager is the default first thing I always install. Simply following the default steps. Homebrew downloads and installs the Command Line Tools for Xcode, so we're all good. `brew cask` handles the tapping, so we are cask-enabled too. Finally, `brew-cask-upgrade` provides upgrade-like capabilities to cask, and we're all set.
+## Homebrew & Cask
+The package manager is the default first thing I always install. Simply following the default steps. Homebrew downloads and installs the Command Line Tools for Xcode, so we're all good. Homebrew Cask is implemented as part of Homebrew now, so we're cask-enabled and rwady from the start for our tapping. Finally, `brew-cask-upgrade` provides upgrade-like capabilities to cask, and we're all set.
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-brew cask
 brew tap buo/cask-upgrade
 ```
 ## Mac App Store
@@ -22,26 +21,26 @@ Once we have `homebrew`, `cask` (and `mas` if needed) we're ready to go (and yes
 
 ```bash
 # Efficiency booster
-brew cask install alfred
+brew install alfred
 
 # CloudApp
 mas install 417602904
 
 # Slack
-brew cask install slack
+brew install slack
 
 # Notes & related
-brew cask install typora
-brew cask install obsidian
-brew cask install evernote
-brew cask install skitch
+brew install typora
+brew install obsidian
+brew install evernote
+brew install skitch
 mas install 1091189122 #Bear
 
 # Amphetamine
 mas install 937984704
 
 # Bartender
-brew cask install bartender
+brew install bartender
 
 # Magnet
 mas install 441258766
@@ -50,9 +49,9 @@ mas install 441258766
 
 ```bash
 # Browsers
-brew cask install google-chrome
-brew cask install brave-browser
-brew cask install firefox
+brew install google-chrome
+brew install brave-browser
+brew install firefox
 ```
 
 ### Common apps
@@ -60,30 +59,30 @@ brew cask install firefox
 ```bash
 
 # Authy
-brew cask install authy
+brew install authy
 
 # Calibre
-brew cask install calibre
+brew install calibre
 
 # Personal cloud storage
-brew cask install amazon-photos
-brew cask install dropbox
+brew install amazon-photos
+brew install dropbox
 
 # Gimp
-brew cask install gimp
+brew install gimp
 
 # Some of the Google stuff
-brew cask install google-photos-backup-and-sync
-brew cask install google-earth
+brew install google-photos-backup-and-sync
+brew install google-earth
 
 # Kindle
-brew cask install kindle
+brew install kindle
 
 # MS
-brew cask install microsoft-office
+brew install microsoft-office
 
 # Spotify
-brew cask install spotify
+brew install spotify
 
 # Shazam
 mas install 897118787
@@ -92,27 +91,27 @@ mas install 897118787
 mas install 409789998
 
 # The Unarchiver
-brew cask install the-unarchiver
+brew install the-unarchiver
 
 # VLC
-brew cask install vlc
+brew install vlc
 
 # Videoconference
-brew cask install skype
-brew cask install skype-for-business
-brew cask install microsoft-teams
-brew cask install zoomus
+brew install skype
+brew install skype-for-business
+brew install microsoft-teams
+brew install zoomus
 
 # Messaging
-brew cask install telegram
-brew cask install whatsapp
+brew install telegram
+brew install whatsapp
 ```
 
 ### Development
 
 ```bash
 # A good terminal
-brew cask install iterm2
+brew install iterm2
 brew install jq
 brew install zsh zsh-completions zsh-syntax-highlighting zsh-autosuggestions
 # And definitely check plugins, templates, themes, etc. at:
@@ -123,45 +122,45 @@ brew install tldr
 brew install thefuck
 
 # Go2Shell
-brew cask install go2shell
+brew install go2shell
 
 # Shuttle
-brew cask install shuttle 
+brew install shuttle 
 
 # AWS CLI
 brew install awscli
 
 # API development
-brew cask install paw
-brew cask install postman
+brew install paw
+brew install postman
 
 # Text editors/IDEs
-brew cask install textmate
-brew cask install sublime-text
-brew cask install brackets
-brew cask install atom
-brew cask install visual-studio-code
+brew install textmate
+brew install sublime-text
+brew install brackets
+brew install atom
+brew install visual-studio-code
 
 # Charles proxy
-brew cask install charles
+brew install charles
 
 # Dash
-brew cask install dash
+brew install dash
 
 # Docker
-brew cask install docker
-brew cask install kitematic
+brew install docker
+brew install kitematic
 
 # ES
 brew install elasticsearch
 
 # Gas Mask
-brew cask install gas-mask
+brew install gas-mask
 
 # Git-related
-brew cask install rowanj-gitx
-brew cask install sourcetree
-brew cask install tower
+brew install rowanj-gitx
+brew install sourcetree
+brew install tower
 
 # Gradle
 brew install gradle
@@ -170,37 +169,37 @@ brew install gradle
 brew install go
 
 # Ngrok
-brew cask install ngrok
+brew install ngrok
 
 # Python
 brew install python
 brew install python3
-brew cask install anaconda
+brew install anaconda
 
 # DevOps
-brew cask install vagrant
-brew cask install virtualbox
+brew install vagrant
+brew install virtualbox
 brew install packer
 brew install terraform
 brew install vault
 
 # Cloud storage and related
-brew cask install cyberduck
+brew install cyberduck
 
 # JetBrains
-brew cask install phpstorm
-brew cask install pycharm
-brew cask install rubymine
-brew cask install intellij-idea
+brew install phpstorm
+brew install pycharm
+brew install rubymine
+brew install intellij-idea
 
 # PHP & related
 brew install composer
 
 # Databases
-brew cask install sequel-pro
+brew install sequel-pro
 
 # VPN
-brew cask install tunnelblick
+brew install tunnelblick
 
 # Xcode. Will take forever to download, yes. Not needed by everyone.
 mas install 497799835

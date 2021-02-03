@@ -29,12 +29,16 @@ mas install 417602904
 # Slack
 brew install slack
 
+# Miro
+brew install miro
+
 # Notes & related
-brew install typora
-brew install obsidian
-brew install evernote
-brew install skitch
 mas install 1091189122 #Bear
+brew install evernote
+brew install notion
+brew install obsidian
+brew install skitch
+brew install typora
 
 # Amphetamine
 mas install 937984704

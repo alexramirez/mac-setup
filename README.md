@@ -68,6 +68,9 @@ brew install authy
 # Calibre
 brew install calibre
 
+# Blog
+brew install hugo
+
 # Personal cloud storage
 brew install amazon-photos
 brew install dropbox

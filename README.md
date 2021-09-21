@@ -108,6 +108,7 @@ brew install skype
 brew install skype-for-business
 brew install microsoft-teams
 brew install zoom
+brew install krisp
 
 # Messaging
 brew install telegram

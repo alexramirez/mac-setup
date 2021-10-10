@@ -79,7 +79,7 @@ brew install dropbox
 brew install gimp
 
 # Some of the Google stuff
-brew install google-photos-backup-and-sync
+brew install google-drive
 brew install google-earth
 
 # Kindle

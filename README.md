@@ -182,6 +182,7 @@ brew install ngrok
 # Python
 brew install python
 brew install python3
+brew install pyenv
 brew install anaconda
 
 # DevOps

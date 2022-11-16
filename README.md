@@ -139,7 +139,7 @@ brew install shuttle
 brew install awscli
 
 # API development
-brew install paw
+brew install rapidapi
 brew install postman
 
 # Text editors/IDEs

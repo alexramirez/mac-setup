@@ -176,6 +176,10 @@ brew install gradle
 # GoLang
 brew install go
 
+# JS
+brew install node
+brew install yarn
+
 # Ngrok
 brew install ngrok
 

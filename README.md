@@ -53,6 +53,7 @@ mas install 441258766
 
 ```bash
 # Browsers
+brew install arc
 brew install google-chrome
 brew install brave-browser
 brew install firefox

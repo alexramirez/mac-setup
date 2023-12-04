@@ -210,7 +210,7 @@ brew install intellij-idea
 brew install composer
 
 # Databases
-brew install sequel-pro
+brew install sequel-ace # Alternative to sequel-pro 
 
 # VPN
 brew install tunnelblick

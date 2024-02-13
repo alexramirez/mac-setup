@@ -63,9 +63,6 @@ brew install firefox
 
 ```bash
 
-# Authy
-brew install authy
-
 # Calibre
 brew install calibre
 

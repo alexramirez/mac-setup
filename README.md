@@ -211,6 +211,7 @@ brew install sequel-ace # Alternative to sequel-pro
 
 # VPN
 brew install tunnelblick
+brew install cloudflare-warp
 
 # Xcode. Will take forever to download, yes. Not needed by everyone.
 mas install 497799835

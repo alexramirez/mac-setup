@@ -86,6 +86,11 @@ brew install kindle
 # MS
 brew install microsoft-office
 
+# Photo editing
+brew install adobe-creative-cloud
+brew install affinity-designer
+brew install affinity-photo
+
 # Spotify
 brew install spotify
 

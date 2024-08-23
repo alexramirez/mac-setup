@@ -202,6 +202,7 @@ brew install phpstorm
 brew install pycharm
 brew install rubymine
 brew install intellij-idea
+brew install webstorm
 
 # PHP & related
 brew install composer
@@ -210,6 +211,7 @@ brew install composer
 brew install sequel-ace # Alternative to sequel-pro 
 
 # VPN
+brew install nordvpn
 brew install tunnelblick
 brew install cloudflare-warp
 

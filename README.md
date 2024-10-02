@@ -49,6 +49,7 @@ brew install bartender
 # Magnet
 mas install 441258766
 ```
+
 ### Browsers
 
 ```bash
@@ -57,6 +58,13 @@ brew install arc
 brew install google-chrome
 brew install brave-browser
 brew install firefox
+```
+
+### AI tools
+
+```bash
+# OpenAI
+brew install chatgpt
 ```
 
 ### Common apps

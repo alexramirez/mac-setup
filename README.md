@@ -115,9 +115,8 @@ brew install the-unarchiver
 brew install vlc
 
 # Videoconference
-brew install skype
-brew install skype-for-business
 brew install microsoft-teams
+brew install webex
 brew install zoom
 brew install krisp
 

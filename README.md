@@ -72,6 +72,9 @@ brew install chatgpt
 # IDEs
 brew install cursor
 brew install windsurf
+
+# Other models/tools
+brew install ollama # DeepSeek, Llama,Llava, etc.
 ```
 
 ### Common apps

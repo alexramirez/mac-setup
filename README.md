@@ -63,8 +63,15 @@ brew install firefox
 ### AI tools
 
 ```bash
+# Anthropic
+brew install claude
+
 # OpenAI
 brew install chatgpt
+
+# IDEs
+brew install cursor
+brew install windsurf
 ```
 
 ### Common apps

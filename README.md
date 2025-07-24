@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=alexramirez&project=mac-setup&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=alexramirez&project=mac-setup&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=alexramirez&project=mac-setup&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=alexramirez&project=mac-setup&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=alexramirez&project=mac-setup&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=alexramirez&project=mac-setup&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=alexramirez&project=mac-setup&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=alexramirez&project=mac-setup&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=alexramirez&project=mac-setup&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=alexramirez&project=mac-setup&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=alexramirez&project=mac-setup&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=alexramirez&project=mac-setup&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=alexramirez&project=mac-setup&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=alexramirez&project=mac-setup&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=alexramirez&project=mac-setup&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=alexramirez&project=mac-setup&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=alexramirez&project=mac-setup&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=alexramirez&project=mac-setup&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=alexramirez&project=mac-setup&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=alexramirez&project=mac-setup&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=alexramirez&project=mac-setup&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 # Mac OS X setup
 Facing the setup of a new machine (or the need to reinstall after a fresh OS install or the like), here's a very brief and basic list of the usual suspects, related to the setup of a mac computer to work with (mostly related to a scripting languages context).
 

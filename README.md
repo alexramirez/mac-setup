@@ -220,10 +220,11 @@ brew install vault
 brew install cyberduck
 
 # JetBrains
+brew install datagrip
+brew install intellij-idea
 brew install phpstorm
 brew install pycharm
 brew install rubymine
-brew install intellij-idea
 brew install webstorm
 
 # PHP & related

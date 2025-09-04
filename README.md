@@ -65,6 +65,7 @@ brew install firefox
 ```bash
 # Anthropic
 brew install claude
+brew install claude-code
 
 # OpenAI
 brew install chatgpt

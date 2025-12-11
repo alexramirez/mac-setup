@@ -216,10 +216,9 @@ mas install 409789998 #Twitter
 
 ### Productivity & Organization
 
-#### Task & Project Management
+#### Note-taking & documentation
 
 ```bash
-# Note-taking & documentation
 brew install notion
 brew install obsidian
 brew install typora
@@ -246,6 +245,7 @@ mas install 441258766 #Magnet
 brew install dropbox
 brew install google-drive
 brew install amazon-photos
+brew install synology-drive
 ```
 
 ### Creative & Media

@@ -301,6 +301,13 @@ brew install microsoft-office
 brew install nordvpn
 ```
 
+### Hardware related
+
+```bash
+# Display adjustments
+brew install betterdisplay
+```
+
 ### Xcode
 
 ```bash

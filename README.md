@@ -129,6 +129,7 @@ brew install gas-mask
 ```bash
 brew install sequel-ace # Modern alternative to sequel-pro
 brew install elasticsearch
+brew install redis
 ```
 
 #### DevOps & Infrastructure

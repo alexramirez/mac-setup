@@ -156,7 +156,7 @@ brew install cyberduck
 brew install tunnelblick
 brew install cloudflare-warp
 brew install nordvpn
-brew install tailscale
+mas install 1475387142 # Tailscale
 ```
 
 ### AI & ML Tools

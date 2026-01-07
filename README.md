@@ -152,9 +152,11 @@ brew install vault
 # File transfer & storage
 brew install cyberduck
 
-# VPN & Security (for dev environment access)
+# VPN & Security (for dev environment access / privacy)
 brew install tunnelblick
 brew install cloudflare-warp
+brew install nordvpn
+brew install tailscale
 ```
 
 ### AI & ML Tools
@@ -297,9 +299,6 @@ brew install google-earth
 
 # Office suite
 brew install microsoft-office
-
-# VPN & Privacy (general use)
-brew install nordvpn
 ```
 
 ### Hardware related

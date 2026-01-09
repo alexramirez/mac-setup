@@ -171,6 +171,7 @@ brew install chatgpt-atlas
 # AI-Enhanced IDEs
 brew install cursor
 brew install windsurf
+brew install antigravity
 
 # Local AI models
 brew install ollama # Run DeepSeek, Llama, Llava, and other models locally

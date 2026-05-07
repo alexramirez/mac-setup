@@ -47,7 +47,6 @@ brew install wget
 brew install jq
 brew install tldr
 brew install thefuck
-brew install go2shell
 brew install shuttle
 ```
 
@@ -57,7 +56,7 @@ brew install shuttle
 # it GUI tools
 brew install sourcetree
 brew install tower
-brew install rowanj-gitx # Legacy: Still functional but less actively maintained
+brew install gitx
 ```
 
 #### Languages & Runtimes

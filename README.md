@@ -129,6 +129,7 @@ brew install gas-mask
 brew install sequel-ace # Modern alternative to sequel-pro
 brew install elasticsearch
 brew install redis
+brew install redis-insight
 ```
 
 #### DevOps & Infrastructure
